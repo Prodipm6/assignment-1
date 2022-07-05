@@ -33,6 +33,16 @@ body{
     color: white;
     font-size: 16px;
 }
+
+/*--------Header part End--------*/
+
+/*--------Donation Section Start--------*/
+.our-plan{
+    text-align: center;
+}
+.our-plan h1{
+    font-size: 50px;
+}
 .donation-today{
     text-align: center;
 }
@@ -55,3 +65,47 @@ body{
     padding: 10px;
     background: #ebe8e8;
 }
+
+
+/*--------Donation Section End--------*/
+
+/*--------Donation Plan Start--------*/
+.plan-one{
+    width: 40%;
+    margin: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    background-color: rgb(134, 178, 184);
+}
+.plan-two{
+    width: 40%;
+    margin: 5%;
+    margin-left: 1%;
+    padding: 20px;
+    background-color: rgb(134, 178, 184);
+}
+.plan-three{
+    width: 40%;
+    margin: 5%;
+    margin-left: 1%;
+    padding: 20px;
+    background-color: rgb(134, 178, 184);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
