@@ -23,12 +23,35 @@ body{
     padding: 10px 40px;
     border-radius: 5px;
 }
-h1{
+.header-part h1{
     margin: 0;
     padding-top: 100px;
     color: white;
     font-size: 50px
 }
-p{
+.header-part p{
     color: white;
+    font-size: 16px;
+}
+.donation-today{
+    text-align: center;
+}
+.donation h1{
+    font-size: 50px;
+}
+.donation p{
+    font-size: 16px;
+}
+.box-wraper{
+    display: flex;
+    position: center;
+    justify-content: center;
+}
+.box{
+    text-align: center;
+    width: 100px;
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+    background: #ebe8e8;
 }
