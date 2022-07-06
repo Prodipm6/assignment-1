@@ -52,6 +52,7 @@ body{
 }
 .donation p{
     font-size: 16px;
+    color: rgb(153, 153, 153);
 }
 .box-flex{
     display: flex;
@@ -92,6 +93,9 @@ hr{
 /*--------Donation Section End--------*/
 
 /*--------Donation Plan Start--------*/
+.donation-plan p{
+    color: rgb(153, 153, 153);
+}
 .plan-one{
     width: 40%;
     margin: 5%;
@@ -116,6 +120,9 @@ hr{
 /*--------Donation Plan End--------*/
 
 /*--------Our Updates part start--------*/
+.update-text p{
+    color: rgb(153, 153, 153);
+}
 .form{
     background-color: antiquewhite;
     height: 200px;
