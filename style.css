@@ -52,7 +52,7 @@ body{
 .donation p{
     font-size: 16px;
 }
-.box-wraper{
+.box-flex{
     display: flex;
     position: center;
     justify-content: center;
