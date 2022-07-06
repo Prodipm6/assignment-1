@@ -33,7 +33,6 @@ body{
     color: white;
     font-size: 16px;
 }
-
 /*--------Header part End--------*/
 
 /*--------Donation Section Start--------*/
@@ -71,7 +70,6 @@ body{
 }
 hr{
     width: 55%;
-
 }
 .donate-item input{
     font-weight: bold;
@@ -113,7 +111,32 @@ hr{
     padding: 20px;
     background-color: rgb(240, 238, 154);
 }
+/*--------Donation Plan End--------*/
 
+/*--------Our Updates part start--------*/
+.form{
+    background-color: antiquewhite;
+    height: 200px;
+    max-width: 800px;
+    position: relative;
+    margin-left: 20%;
+}
+.content input{
+    background-color: rgb(212, 204, 204);
+    padding: 10px 10px;
+    margin: 100px 5px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+.content a{
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+/*--------Our Updates part End--------*/
 
 
 
