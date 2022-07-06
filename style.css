@@ -69,6 +69,24 @@ body{
     padding: 10px;
     background: #ebe8e8;
 }
+hr{
+    width: 55%;
+
+}
+.donate-item input{
+    font-weight: bold;
+    outline: none;
+    border: none;
+    width: 200px;
+}
+.donate-item a{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
 
 
 /*--------Donation Section End--------*/
